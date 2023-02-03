@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvMVtqMQWmA1pudccPtr134If0UnTI94gHDxVHaXzja7PhHqA0lrF3jwBs0BHZDgitUpciS9KYOFaYrAbeA68A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
